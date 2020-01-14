@@ -1,10 +1,10 @@
 class Author
   
-  attr_accessor :name, :title
+  attr_accessor :name, :post
   
   def initialize
     @name
-    @title
+    @post
   end
   
 end
